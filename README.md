@@ -1,4 +1,4 @@
-# Flint Financial ![FLINT](https://raw.githubusercontent.com/FlintFinancial/Flint/main/flint%20(32).png) [GitHub](https://github.com/FlintFinancial/Flint)
+# Flint Financial ![FLINT](https://raw.githubusercontent.com/FlintFinancial/Flint/main/flint32.png) [GitHub](https://github.com/FlintFinancial/Flint)
 
 Flint Financial is a reward token that charges tx fees on buys and sells. The fees charged on all transactions help reward and protect all HOLDRs. FLINT cryptocurrency that was designed to encourage long-term investment and discourage selling.
 
